@@ -16,7 +16,7 @@
     "url": "https://github.com/conqueror-G/JavaScript/issues"
   },
   "homepage": "https://github.com/conqueror-G/JavaScript#readme",
-  "dependencies": {
+  "devDependencies": {
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-prettier": "^4.2.1",
     "prettier": "^2.7.1"
